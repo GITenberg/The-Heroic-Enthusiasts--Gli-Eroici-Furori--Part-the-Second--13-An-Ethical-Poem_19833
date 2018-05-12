@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8901
     wikipedia: http://en.wikipedia.org/wiki/Giordano_Bruno
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19833#The-Heroic-Enthusiasts--Gli-Eroici-Furori--Part-the-Second--13-An-Ethical-Poem
 gutenberg_issued: '2006-11-16'
 gutenberg_type: Text
 identifiers:
