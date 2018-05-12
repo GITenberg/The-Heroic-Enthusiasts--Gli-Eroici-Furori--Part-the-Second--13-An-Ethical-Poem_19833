@@ -1,0 +1,34 @@
+_repo: The-Heroic-Enthusiasts--Gli-Eroici-Furori--Part-the-Second--13-An-Ethical-Poem_19833
+_version: 0.1.0
+alternative_title: De gli eroici furori. English
+contributor:
+  translator:
+    agent_name: Williams, L.
+    gutenberg_agent_id: '8902'
+    url: http://www.gutenberg.org/2009/agents/8902
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bruno, Giordano
+    birthdate: 1548
+    deathdate: 1600
+    gutenberg_agent_id: '8901'
+    url: http://www.gutenberg.org/2009/agents/8901
+    wikipedia: http://en.wikipedia.org/wiki/Giordano_Bruno
+description: ''
+gutenberg_issued: '2006-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19833'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philosophy, Renaissance'
+- !lcsh 'Philosophical anthropology'
+- !lcc 'B'
+title: "The Heroic Enthusiasts (Gli Eroici Furori) Part the Second\r\nAn Ethical Poem"
+url: http://www.gutenberg.org/ebooks/19833
